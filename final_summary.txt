@@ -1,0 +1,36 @@
+NASA Contractor Report Analysis Techniques Tracer Studies Oxidation Soumendra Nath Basu Case western Reserve University Cleveland Ohio L.
+ Previous study ox gen diffusion alumina.
+ CHAPTER INTRODUCTION double oxidation techniQue usins tracer used successfull identif transport mechanism srowinS oxide scale.
+ aim stud develop techniQues obtain Quantitative anal si diffusion data tracer concentration profile srowins oxide scale.
+ problem determininS fraction inward outward srowth scale tracer concentration profile solved.
+ process tracer diffusion SrowinS scale pol cr stalline modelled.
+ analwsis techniQues developed applied FeCrAI Zr allow bw usina SIMS obtain tracer profile.
+ Self diffusion studied b introducing isotopic tracer system diffusing atom identified.
+ Hl mass diffusion coefficient isotope.
+ However isotopic mass close senerall diffusion coefficient assumed.
+ tracer stud ox gen diffusion difference.
+ II diffusion coefficient sec P densits k C mass fractional concentration sradient.
+ Introduction Enhanced srain boundarw diffusion observed several oxide J.
+ observed tracer concentration profile polwcrwstalline sample due fast diffusion alons Srain boundary slower diffuson Srains surface srain boundary.
+ model roposed mathematicallw treat combined Srain boundarw volume diffusion problem discussed ne sectior.
+ obtained exact solution ave rase tracer concentration profile usins Fourier Laplace transforffis.
+ C obtained logarithm average tracer concentration C varies linearl slope related grain diffusion coefficient eauation boundar b.
+ B l w Tl JTft Levine MacCallum J solved grain boundar diffusion eQuation directl average sample con entration pol cr stalline.
+ . Lattice diffusivit Oishi Kin er J st Jdied diffusion sinsle alumina usins cr stal aseous techniQue. plot los CD versus exchan e lIT showed break C interpreted extrinsic intrinsic transition.
+ . Reddy Cooper ISJ exchansed sinsle crystal alumina enriched Sas measured tracer concentration profile usins proton activation.
+ tracer profile determined bw proton activaton Secondarw Ion Mass Spectrometrw SIMS.
+ . LaSerlof Heuer Mitchell studied Recentl annhilation dislocation loop annealins b deformed Al Based c linders assumption self diffusion ox Sen rate controllins calculated diffusion coefficient undoped alumina ox Sen kJ mole x exp RT sec.
+ lattice diffusion coefficient pure ox Sen alumina well established.
+ Grain boundar diffusivit Mistler Coble J calculated srain diffusion coefficient width boundar result srain srowth creep sinterinS diffusion.
+ srain boundar width alumina reported nm.
+ Srain diffusion coefficient boundar ref orted.
+ model assumed effective diffusion coefficient ff siven b Deff EDb E volume fraction Srain boundary.
+ . However model neglected contribution surface diffusion neck srowth.
+ assumed limited srain b oX Sen boundar diffusion.
+ Redd Cooper J used proton activation undoped alumina obtain polwcr stalline kJ mole Db. xl exp RT sec.
+ assumption larse srain width alumina closer boundar pically lOA.
+ . resistance formation alumina scale since stable oxide lowest free formation.
+ Alumina ener stoichiometric oxide low diffusion rate attacked either H CO.
+ b Gi in Pettit showed external alumina scale form certain composition allo onl.
+ Thew observed formation transient oxide rich iron chromium case followed bw steadw state alumina scale.
+ Mechanism Oxidation Inert marker experiment Hindam b Smeltzer J indicated alumina scale row inward diffusion.

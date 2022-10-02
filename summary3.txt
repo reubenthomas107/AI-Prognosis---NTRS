@@ -1,0 +1,747 @@
+. Preface Internal fluid flow subject self sustained oscillation purely hydrodynamic type also coupling instability acoustic mode surrounding cavity.
+situation common turbo machinery since flow instability confined within flow path acoustic wavelength typically smaller dimension cavity flow speed low enough allow resonance.
+Part Chapters present many method used calculate acoustic resonance internal flow path inside turbomachinery condition acoustic wavelength much larger cavity dimension discrete resonator wavelength comparable smaller main flow path dimension distributed resonator.
+type oscillation termed instability induced excitation IIE include jet wake mixing layer.
+combining Parts II mode flow instability acoustic resonance calculated determine potential coalescence discrete distributed resonator ir.
+CHAPTER SOUND PROPAGATION PIPES MEAN FLOW.
+TABLEOF CONTENTS Continued P ag CHAPTER STANDING WAVE MODES PIPES DUCTS MEAN FLOW.
+TABLE CONTENTS Continued PART FLOW INDUCED EXCITATION MODELING CHAPTER STABILITY FREE SHEAR LAYERS.
+. High Pressure Fuel Turbo Pump HPFTP Range Resonance Frequencies Found inside Turbomachinery Helmholtz Resonator Mechanical Analog Simple Oscillator.
+Mass End Correction Analog Circuit Pipe Provided Side Branch Form Helmholtz Resonator.
+Schematic Non Linear Flow Separation Jet Formation Period Excitation Strouhal Number Correlation Strong Helmholtz Resonator Excitation Plot Cavity Depth Normalized Wavelength k c fl Versus Ratio Depth Normalized Cavity Width b Direction Flow Plot Strouhal Number Versus Cavity Depth Resonant Conditions Single Element Configuration Transmission Loss Single Element Configuration Helmholtz Resonator Branch Pipe One Anechoic Termination Three Element Configuration.
+. Schematic Representation Single Element Pipe Impedance Change Tn Schematic Cavity Side Branch Transmission Loss Three Element Pipe Configuration Without Flow.
+Pressure p Axial Fluid Particle Velocity you Fundamental Resonance Anti Resonance End L Rigid Pressure Release Termination Tube Junction.
+Schematic Dispersion Curves Phase Velocity Group Velocity Rigid Pipe Plot Bessel Function Ratio Relating Radial Wavenumber Pipe Wall Reactance Axisymmetric Modes.
+Dispersion Curve Quasi Planar Wave Liquid Naphtha Column Glass Tube Phase Velocity Rubber Hose Whose Reactance Mass Controlled Theoretical Thermal Radiationb Viscous Total Damping Constants Resonant Air Bubbles Water Comparison Theoretically Predicted Phase Velocity Attenuation Sound Wave Bubble Swarm Measurements Mach Number Dependence Measured Ratio Pressure Amplitudes Radiated Upstream Downstream Directions Measurements Sound Pressure Pipe.
+Sound Power Reflection Coefficient Tube Versus Jet Exit Mach Number Various Dimensionless Frequencies Two Exit Configurations Mach Number Dependence Complex Eigenfrequency th Axial Acoustic Mode Open Ended Duct Effective Length Several Values Turbulent Pipe Flow Friction Factor.
+Network Finite Elements Used Represent Modes Cascade System Influence Number Iterations Errors Eigenfrequency Mode Shape Fundamental Mode Two Dimensional Rectangular Acoustic Chamber Using Modal Intensification Method x.
+. Frequency Ratios First Two Acoustic Modes Flat Plate Cascades Typical Frequency Amplitude Velocity Relationship Flow Excited Resonances Frequencies fAcoustic Mode Combined Plate Vibration Single Plate Parallel Walls Two Adjacent Uniform Streams Moving Direction Consideration Velocities Normal Interface Illustration Wave Grows Time Illustration Wave Grows Spatial Position Plane Mixing Layer Effect Compressibility Circular Jet. Strouhal Number Preferred Mode Jets Versus Characteristic Length ScaleRatio Strouhal Numbers Axisymmetric Jet. InitialRegion oftheJet Variation Shear Layer Spreading Rate db dx Velocity Ratio Turbulent Mixing Layer Potential Core Length Function Relative Velocity.
+. Strouhal Number Versus St Tube Banks Cross Flow.
+Values Strouhal Number Tube Arrays Resonance Parameters Line Staggered Tube Array Experimental Measurement Hydrodynamic Inertia Constant.
+Tube Nomenclature Basic Swirl Generators Frequency Function Flow Rate Air Water Vortex Whistle Frequency Function Pressure Incoming Outgoing Air Vortex Whistle Comparison Chanaud Vortex Whistle Air Experiment Vonnegut Air Water Experiment Comparison Different Swirl Generators Air Water Comparison Calculated Measured Frequencies Vortex Tube Variation Strouhal Number Reynolds Number Ring Chamber Inlet Exit Axial View Vortex Core Ring Exit Chamber Frequency Spectra Fluctuating Pressure Model Disk Together Calculated Acoustic Eigenfrequencies Basic Configuration Shear Layer Impingement Edge Geometries Produce Self Sustained Oscillations Apparent Streamwlse Length Scales Variety Non lmpinging Flows Typical Variation Frequency Versus Velocity Features Edgetone Generator Variation Edgetone Frequency Jet Efflux Speed Impingement Length.
+Neutral Stability Curves Regions Jet Instability Edgetone Action II II Regions Activity Three Individual Stages Instability Planar Jet Collective Interaction II Noise Generation Mechanisms Impinging Jet Radiation Impinging Jet Operated Resonance x ii.
+. II Instabiiity Resonant Strouh Numbers Free Impinging Jets II II Variation Frequency Stage Number Plate Separation Distance Dependence Wavefront Angle Plate Separation Distance II Approximate Wavespeed Profile Axisymmetrlc Jet Compared Planar Jet Strouhal Number Versus Reynolds Number Hole Tone System Classification Cavity Oscillators.
+II Physical Dimensions Flow Parameters Cavity Oscillation Models Damping Function Strouhal Number Variation Strouhal Number Versus Mach Number Neutral Stability Range Validity Cavity Oscillation Models.
+Cavities Capable Acoustic Standing Waves Selected Cavities Inside Turbomachinery Acoustic Resonator Models Instability lnduced Excitation Models Examples Resistance Calculations Air Water Filled Resonator Definitions Acoustic Impedance Used Text Major Variables Electro Acoustic Analogy.
+Rayleigh Relaxation Table First Mode Fixed Fixed String Sensitivity Rayleigh Relaxation Method Assumption Initial Mode Shape String Solutions Rayleigh Equation Six Mean Velocity Profiles Jet Matrix Survey Using Methods Derived Linear Stability Theory Shear Layer Mode Measured Planar Circular Jet Air Preferred Mode Measured Circular Jet Air Sample Jet Reynolds Number Sample Jet Preferred Modes.
+Sample Jet Shear Layer Modes Shear Layer Modes Calculated Using Momentum Thickness Jet Matrix Survey Using Methods Derived Linear Stability Theory Values Frequency Constant Calculated Resonance Frequencies Ring Exit Chamber Summary Edgetone Experiments Planar Ax symmetric Jets.
+II l Shear Layer Frequencies Nyborg Brown Models Comparison Predicted Measured Values Comparison Strouhal Numbers Calculated Rossiter Block East Cavity Oscillation Models XV.
+z. SYMBOL DEFINITION FIRST REFERENCE Bubble radius Equation b Cross flow span rectangular cascade system Figure b Chord half width Table b Shear layer thickness Equation Jet half width Table C Speed sound Equation Ca Speed sound inside cavity Equation Ce Phase velocity capillary tube Equation Effective speed sound Equation Cell Group velocity mode nm Equation Cgnm Ci Imaginary part complex sound speed Equation CL Speed liquid pipe Equation Cnm Phase velocity mode nm Equation Co Speed Ofsound C Equation Co Speed sound absence flow Equation Cr Real part complex sound speed Equation Acoustic boundary layer thickness Equation Diameter cylinder Figure Distance separating shear layer Equation dfo Tube diameter root fin Equation dl Inside tube diameter Equation dl Inlet diameter ring chamber Figure Tube inside diameter fin section Equation Helmholtz resonator neck diameter Equation b Outside tube diameter Equation Outlet diameter ring chamber Figure dT Thermal boundary layer thickness Equation fa Anti resonant frequency Equation b PAGE INTENTIOi IBALLALIY K xv ii IIRECED Q.
+SYMBOL DEFINITION FIRST REFERENCE Vortex shedding frequency Figure Frequency th vortex merging Equation Nyborg stage number integer Equation Natural frequency Equation Shear layer mode Table f n Stressed frequency Equation l fnm Cut frequency mode nm Equation b Preferred mode column mode Table f.
+Resonant frequency Equation Turbulent buffeting frequency Equation g Acceleration due gravity Equation g Tube layout parameter Figure h Wall thickness Equation h Amplitude shear layer Equation h Minimum jet thickness constant Equation h Complex amplitude fluctuating part h Equation k Wave number Equation k Wave number plane wave propagating flow Equation k Wave number plane wave propagating flow Equation Convected wave number Equation kl Wave number incident wave Equation kL Wave number flow loss Equation kr Real part wave number Equation kR Wave number reflected wave Equation l k Velocity ratio shear layer velocity free stream velocity Equation Apparent length scale Equation Mass Figure Velocity ratio Equation xviii.
+SYMBOL DEFINITION FIRST REFERENCE n Stage oscillation Equation P Pressure Equation p Pressure plane wave propagating flow Equation p Pressure plane wave propagating flow Equation Pi Incident pressure wave Equation PR Reflected pressure wave Equation Prms Root mean square pressure Equation PT Transmitted pressure wave Equation b q Magnitude velocity vector Equation r Radial distance coordinate Equation r Temperature recovery factor Equation r Bubble resonance spectrum Equation r Radius cylindrical she will pipe capillary tube Equation Pitch spacing rectangular cascade system Figure Time Equation you Acoustic particle velocity Equation you Horizontal component fluid velocity Equation you Particle speed plane wave propagating flow Equation YOU Particle speed plane wave propagating flow Equation uo Acoustic particle velocity x Equation Urms Root mean square particle velocity Equation V Vertical component fluid velocity Equation Vi Mass velocity ith pipe element Equation W Radial displacement Equation X Horizontal corrdinate Equation X Non dimensional linear coordinate x L Equation xlx.
+SYMBOL DEFINITION FIRST REFERENCE Source region pipe wall Equation Ks x Imaginary part specific acoustic impedance Equation Vertical coordinate Equation zu Specific characteristic acoustic impedance Equation z Specific acoustic lmpedarlce x Equation zup Specific acoustic impedance plane wave Equation Attenuation dead zone Equation Tube cross sectional area Equation Complex amplitude Equation Cross sectional area cavity Figure AI Loss factor Equation Ao Cross sectional area orifice Figure Ap Cross sectional area pipe Equation E W B Adiabatic bulk modulus Equation Bulk modulus air bubble Equation B Effective bulk modulus Equation BL Bulk modulus liquid Equation B Bulk modulus she will Equation B Bulk modulus bubble swarm Equation C Chord dimension rectangular cascade system Figure Cb Base pressure coefficient Equation Depth simple axtsymmetric cavity Table Frequency constant Equation Diameter vortex whistle Equation Dj Diameter jet Table Dp Diameter pipe Equation xx.
+SYMBOL DEFINITION FIRST REFERENCE E Young modulus Equation E Modulus elasticity tube material Equation F Force Equation Residual error term Equation Fi Resonance parameter inline tube array Equation Gs Resonance parameter staggered tube array Equation Section moment inertia Equation Acoustic intensity plane wave propagating flow Equation Acoustic intensity plane wave propagating flow Equation Jn Cylindrical Bessel function Equation K Spring constant stiffness Figure K Base pressure parameter Equation L Length simple axlsymmetrtc cavity Table L Length straight pipe section Figure L Downstream tube length Figure L Cavity depth Helmholtz resonator Figure Effective length Figure L Incident acoustic power level Equation Lo Neck length Helmholtz resonator Figure Lt Transmitted acoustic power level Equation Mach number flow past cavity Table Entrained mass per unit area Equation Mach number flow pipe exit Figure N Number cavity per unit volume Equation P Pressure amplitude standing wave Equation P Axial load negative compressed positive tensile Equation xxi.
+SYMBOL DEFINITION FIRST REFERENCE p Amplitude upstream wave Equation p Amplitude downstream wave Equation Pb Base pressure pressure back plate Equation PH Amplitude pressure Helmholtz resonator Equation b Pt Amplitude incident pressure wave Equation Pnm Modal amplitude Equation PR Amplitude reflected pressure wave Equation PT Amplitude transmitted pressure wave Equation b J z P Pressure entering vortex whistle Equation P Pressure exiting vortex whistle Equation P Pressure undisturbed flow Equation P.
+Ambient pressure Equation Quality factor acoustic viscous loss Table Oa Acoustic quality factor Equation Q Volume velocity Helmholtz resonator Equation Volume velocity incident pressure wave Equation Volume velocity reflected pressure wave Equation Volume velocity reflected pressure wave Equation b R Dashpot resistance Figure R Correlation function Equation R Real part complex impedance Equation P Acoustic resistance Equation Reynolds number Figure.
+SYMBOL DEFINITION FIRST REFERENCE Elements state vector Equation Sl Tube layout parameter Figure St Strouhal number Equation St Tube layout parameter Figure St Universal Strouhal number based Us Equation Temperature Equation TIj Elements transfer matrix Equation TL Transmission loss Equation TLsp Transmission loss straight pipe Equation YOU Free stream flow speed Table uc Convective velocity Equation c uc Speed fluid cavity Table Group velocity Equation Ugroup Um Mean velocity jet exit Table Uo Axial exit velocity ring chamber Figure Us Stream velocity Equation UI Jet velocity Equation YOU Free stream velocity Equation YOU Free stream velocity Equation V Volume Equation Vc Volume cavity Figure Vn Velocity component normal interface Equation v Fluid anguliar velocity swirl generator exit Equation W Acoustic power Equation Effectivee weight tube per unit length Equation W Incident acoustic power Equation Wref Reference acoustic power Equation Wt Transmitted acoustic power Equation xxiii.
+SYMBOL DEFINITION FIRST REFERENCE X Imaginary part complex impedance Equation X Length potential core jet Table Distance trailing edge th vortex Equation YI.
+Distance separating shear layer Equation ZH Acoustic impedance Helmholtz resonator Equation b Zm Z Acoustic impedance based mass velocity Equation Zmp. Acoustic impedance plane wave based mass velocity Equation Zp Acoustic impedance pipe Equation Acoustic impedance based volume velocity Equation Acoustic impedance plane wave based volume velocity Equation GREEK SYMBOLS ti Volume fraction Equation ti Wave number Equation ct Empirical constant Equation tic Classical attenuation pipe Equation b tid Attenuation per diameter pipe Equation tiflow Attenuation due mean flow pipe Equation nm Radial wave number Equation l tit Transmission coefficient Equation tlT Coefficient thermal diffusivity Equation titurb Attenuation due turbulence pipe Equation Complex angular frequency Equation Eigenvalues Helmholtz equation Equation Complex part complex angular frequency Equation Real part complex angular frequency Equation Ratio specific heat Equation xxiv.
+SYMBOL DEFINITION FIRST REFERENCE Axial wave number Equation r Circulation Equation Fluid particle displacement Equation Damping constant Equation AL Length entrained fluid within cavity Figure ALo Length entrained fluid outside cavity Figure AV Volume change cavity Equation c Displacement open end cavity Equation Strain Equation E Increment x direction Equation Impedance flow loss Equation Impedance flow loss Equation Increment direction Equation Acoustic source displacement Equation e Momentum thickness Equation Coincidence cone vertex angle Equation Wavelength Equation Wavelength upstream traveling wave Equation Wavelength downstream traveling wave Equation Absolute viscosity Equation teff Effective viscosity gas filled tube Equation V Kinematic viscosity Equation P Density Equation Pc Devsity vapor Equation Density liquid Equation PL Po Density C.
+SYMBOL DEFINITION FIRST REFERENCE Stress Equation Solidity ratio Equation Increment time Equation Ratio shear layer thickness free stream coordinate Equation Circumferential angle coordinate Equation Velocity potential Equation Complex amplitude velocity potential Equation Complex amplitude stream function Equation bi Imaginary part Equation r Real part Equation f Friction factor turbulent flow Equation Compiex stream function Equation Angular frequency Equation COa Antiresonance frequency Equation coi Imaginary part complex angular frequency Equation Natural frequency bubble Equation C.
+difficulty excitation source identification due flow complexity bewildering number geometric feature found inside turbomachinery.
+case fluid resonator clearly identifiable acoustic mode mode must excited action shear layer.
+survey source geometry defines type shape range flow condi tions analytical model suitable precludes modeling type excitation model resonator likely occur inside turbo machinery.
+Next source organized logical framework define appropriate model establish range flow acoustic condition might expected.
+Listed table major engine component beside component expected Mach number frequency range.
+. Table Cavities Capable Acoustic Standing Waves Basic Volumes Engine Frequency Range Components Mach Number lOne Quarter Wave Circular Torus Pump Inlet.
+Figure illustrates range resonance frequency selected engine component.
+Longer wavelength frequency Hz product circumferential acoustic wave shorter acoustic wavelength traceable radial axial resonance mode.
+. Source Classification one continue search source part SSME would quickly discovered engine span wide range flow condition liquid vapor two phase possible flow situa tions model.
+. Table Selected Cavities Inside Turbomachinery Approximate Basic Cavity Variation Significant Range Basic Cavity Parameters Dimensions Simple Axisymmetric Bellows Cavity YOU Free stream L velocity YOU.
+. Lo sectional area k Cavity cross L sectional area ir Simple Axisymmetric L Cavity Lubrication YOU Free stream Exit Flowing Fluid Cooling Port velocity.
+deal issue first part handbook Chapters present number method used calculate acoustic resonance inside internal flow path.
+Included handbook frequency prediction formula jet wake mixing layer.
+model organized according basic category shear layer flow leading edge interaction.
+Shown Tables acoustic flow model considered handbook.
+Table top row show basic flow configura tions configuration shown basic model acting acoustic resonator.
+. describe effect high incident pressure turbulent flow inci dent mouth resonator.
+. Mechanical Acoustical Analog Helmholtz resonator cavity equivalent spring simple oscillator.
+resonator spring constant K determined compliance fluid filled cavity boundary.
+Even neck length Lo see Figure small sloshing fluid orifice cavity alternatively compressed decompressed entrains mass fluid correspond ing volume Ao AL fluid orifice cross sectional area AL sum length entrained fluid outside cavity ALo entrained fluid within cavity.
+Natural Frequency Helmholtz Resonator adiabatic bulk modulus B fluid whether gas liquid relates volume strain AV V adiabatically compressed fluid applied pressure.
+Applying Equation resonator av Ao V Ao. arel respectively cross sectional area orifice cavity Lc cavity depth displacement virtual piston defining boundary orifice exterior space.
+already mentioned mass mass orifice neck length Lo augmented en rained mass rtual p stons forming interface neck respectively exterior space length ALo cavity length ALi. opening small term cavity cross sectional area well wavelength squared entrained mass baffled piston length G r J.
+Ao orifice open outward extended boundary expression ALo Equation hold irrespective provided Ao X Assuming case effective resonator mass p Ao L.
+b Recalling gas density bulk modulus depend strongly pressure temperature one would expect hold sound velocity consequently fn Referring Equations one note pressure cancel sound velocity hence fn dependent temperature c Co Co sound speed K.
+Consequently fn c VeLar Example Calculation illustrate result consider air filled resonator Lo ALo Ao. view latter inequality Equation applies Left.
+. x AIo n Vc example temperature K orifice cross sectional area Ao cm cavity volume Vc cm natural frequency computed Equation Hz.
+waveguide length Lc terminated rigid boundary display standing wave pressure field form p x Pcos k x Lc k co c wavenumber co nf angular frequency.
+. pck Preserving constant volume velocity corresponding particle displace ment resonator neck Ao b pressure also continuous x.
+low frequency limit stiffness k Ec L inequality used formulate restriction resonator dimension must satisfy make elementary theory applicable.
+wave number Helmholtz resonance obtained Equation b nf ca Ao VcL Ao L L inequality Equation becomes Ao. n restriction resonator dimension must satisfy make elementary theory applicable.
+wave acoustic theory Helmholtz resonator place limitation cavity dimension yield somewhat accurate expression natural frequency formulated Bigg.
+Liquld Filled Cavity Resonator gas filled cavity compressibility fluid cavity short circuit compliance boundary except unusually high static pressure.
+V pr V Eh Consequently bulk modulus she will Bs. computed Equation sign reversal pressure act outward boundary definition Equation assumes inward acting pressure Bs Eh r slightly different expression would obtained axial strain taken account.
+Retaining resonator dimension assumed earlier natural frequency liquid filled resonator BAo r Hz. Even though natural frequency considerably higher air filled cavity inequality underlying Helmholtz mathematical model readily satisfied sound velocity correspondingly larger.
+word cavity dimension rather acoustic fluid determines whether Helmholtz model valid.
+z interesting note result could obtained directly Equation Korteweg Lamb correction applied sound velocity elastic pipe.
+Referring Equation acoustic resistance resonance f f.
+measure corresponding acoustic quality factor sharpness resonance Helmholtz resonator K Qa R Combining Equations.
+Normalizing acoustic resistance resistance ratio resonance Ro vc Le Ra r pc p Vca r Aou use made Equations b b.
+relevant parameter air water tabulated Table result resistance calculation resonator parameter used earlier example.
+Even though application Equations water crude approximation adequately show absence energy absorbing device screen resistance mostly associated radiation resistance Helmholtz resonator parameter selected.
+. Helmholtz Resonator Side Branch Although sound propagation pipe studied detail Sections section considers elementary low frequency situation incident plane sound wave propagating pipe.
+purpose example demonstrate application Helmholtz model electrical circuit analog determine transmission loss function frequency.
+Neglecting pipe wall compliance pressure propagates speed sound fluid form Pt x Pj exp ikx.
+Since pipe cross sectional area Ap generally differs Ao desirable introduce volume velocity.
+volume velocity incident wave Ap Pl pc acoustic impedance unit pressure per volume velocity Z P c Ap Helmholtz resonator b rt fA Q n reflected pressure computed.
+impedance pipe resonator junction represented shunt circuit Figure Helmholtz resonator short circuiting energy flow downstream portion pipe.
+. Continuity pressure volume velocity x requires PR Pi PT PH b Qi QR Qr QH c QH PH ZH subscript H identifies Helmholtz resonator.
+Substituting Equa tions b volume velocity using Equations b Equation c becomes Consequently impedance upstream resonator Figure z z l.
+simultaneous equation Equations solved reflected transmitted pressure ratio PT ZP Pl ZH PPR Z H l Helmhoitz resonance resonator impedance Equation b reduces application Equations f fo R resonance resonator short circuit transmission acoustic energy.
+p loglo ApRa. Examp e Calculation resonator parameter used earlier selecting pipe whose cross sectional area ApRa.
+likely situation turbomachinery one cavity resonator excited grazing flow across orifice.
+e. effec tive end correction well resistance resonator thus shifting resonance frequency quality factor unfortunately ability predict shift determined geometry flow range.
+problem related grazing flow past Helmholtz resonator namely non linear dependence resistance orifice large incident pressure amplitude treated Ingard.
+incident pressure amplitude exceeds transition point pressure velocity orifice begin become distorted non linear resistance orifice approximately p you you acoustic velocity orifice.
+effect grazing turbulent flow resonator duct lining briefly discussed Reference.
+analytical model circular cylindrical Helmholtz resonator wall duct carrying low subsonic flow given Howe Reference.
+Howe explanation increased resistance resonator DC bias flow vorticity generated incident acoustic pressure fluctuation swept downstream flow carrying portion fhe acoustic energy.
+Explicit expression z derived impedance cavity seen incident plane wave flow duct.
+Consistent result Ingard Howe find cavity resonance shift higher frequency.
+z Two reference experimental study Helmholtz resonator excitation external flow glider fuselage flight semi empirical study effect grazing flow array resonator x study z confirm reduction end correction flow Mach number.
+. describes response Helmholtz resonator turbulent boundary layer Subsection.
+Description Turbulent Boundary Layer concise description boundary turbulence term cross spectral density correlation length adequate particularly much debated controversial low wavenumber portion spectrum associated direct sound radiation boundary layer proper specifically relevant sound radiation Helmholtz resonator cavity.
+randomly fluctuating surface pressure exerted boundary turbulent boundary layer expressed term mean square value p pressure correlation function R p x p x p R TI.
+fully developed turbulent boundary layer correlation function depend location x separation TI two point.
+f R x exp icx dz approximated term boundary layer thickness x p YOU YOU Reference fully developed turbulence pipe duct equal conduit transverse dimension.
+two factor Equation formulated term corresponding Strouhal number St Uc Uc Uc convection velocity.
+H Imholtz Resonator Response Turbulent Boundary Layer natural frequency resonator Equation altered mean flow modifies entrained mass well radiation resistance summarized Section.
+experi mental study specifically address response Helmholtz resonator concludes case outside end correction wiped mean flow shifting natural frequency upward conclusion consistent experimental study.
+resistive component acoustic impedance resonator neck increase flow velocity.
+Helmholtz resonator neck diameter fn either Helm holtz resonance frequency Equation fundamental standing wave organ pipe resonance.
+latter effective cavity neck length Leff measure one acoustic half wavelength natural frequency would fn c L L.
+result Equation based limited number experiment encompassing three value single ratio L L resonator neck length.
+useful interpret experimental result term standard mathematical model turbulent boundary layer presented Subsection.
+co mean square pressure spectral density wall shear stress YOU friction velocity p Uc relevant test parameter Figure.
+. Relating resonator neck diameter resonance condition Equa tion equivalent Strouhal number spanning range n n.
+corresponding frequency coincides either Helmholtz resonance frequency Equation organ pipe fundamental natural frequency Equation resonance peak pressure spectrum displayed Figure take place.
+Clearly referring Equation Helmholtz resonance characterized smaller two resonance natural frequency excited lower convection velocity organ pipe resonance.
+Insightful result obtained cavity form rectangular parallelepiped one whose six face left open air flow wind tunnel.
+aspect ratio b negligible resonance observed lower frequency see Figure f Multiple resonance observed value b.
+. resonance explained existing theory associate depth mode resonance maximum expression P Rsin kd Xsin kd co kd pf Equation p pf respectively RMS pressure amplitude cavity base mouth k wavenumber.
+Consequently small kb cosine much larger R X term pressure ratio display maximum first root co kd corresponds Equation.
+reason velocity must Strouhal number St rob YOU compatible shear layer feedback mechanism.
+Rossiter showed resonant condition shear layer develops series eddy rotational direction effectively like one half Karman vortex street.
+Strouhal number compatible experimentally observed resonance plotted Figure.
+b. principal cavity pressure resonance observed occur fundamental depth mode.
+small Mach number small value b require ments satisfied convection velocity obtained substituting funda mental depth resonance frequency Equations Equations Uc Cbd l b f c Uc cb.
+Plot Strouhal Number Versus Cavity Depth Resonant Conditions.
+. Influence Grazing Flow Acoustic Impedance Cylindrical Wall Cavity J.
+. Excitation Helmholtz Resonator Turbulent Boundary Layer J.
+. Surface Pressure Sound Produced Turbulent Flow Smooth Rough Walls J.
+W. Theoretical Experi mental Investigation Acoustic Response Cavities Aerodynamic Flow Wright Patterson Air Force Base WADD TR.
+CHAPTER ACOUSTIC FILTERS NETWORKS Robert Noreen Wyle Laboratories Turbomachinery pipe system containing propagating acoustic wave simply constant area straight pipe uniform pressure temperature.
+Rather pipe contain change cross sectional area pressure temperature often opening wall lead cavity.
+Pipe system often contain many change area condition resulting multiple impedance change differing frequency relationship thus may considered type filter network.
+cavity one side pipe form Helmholtz resonator would acoustic filter shown previously Figure.
+change pipe cross sectional area creates reflection separated distance another pipe impedance change create pipe transmission loss function frequency distance pipe change another example acoustic filter.
+Combinations relatively simple element produce complex pipe system many impedance change widely varying transmis sion loss versus frequency characteristic.
+chapter show calculate acoustic performance pipe system consisting combination simple element using transfer.
+present transfer matrix method analyzing acoustic pipe system containing number element.
+. Pipe Acoustic Impedance specific characteristic term used acoustic impedance gas medium supporting propagation acoustic wave charac teristic medium single def mition z p you z specific acoustic impedance p acoustic pressure you acoustic particle velocity.
+acoustic pressure variation small enough considered isentropic specific impedance plane wave propagation stationary medium Z p pc z specific acoustic impedance plane wave p ambient density c speed sound.
+common definition probably used earlier Equation Kinsler Frey l based upon acoustic volume velocity pipe you Zv P zu Ap you Ap r.
+q Zv acoustic impedance pipe based volume velocity Ap cross sectional area pipe.
+plane wave stationary medium acoustic impedance becomes Z p pc Ap Since density speed sound function temperature actual calculation problem pipe temperature vary generally convenient define pipe impedance based acoustic mass velocity pipe p Av you Zm P z Z.
+acoustic power propagating wave pipe related acoustic pressure particle velocity W prm you.
+Combining impedance Equations assuming plane wave W P mS pipe known inlet outlet area fluid known temperature density transmission loss og tIl II transmission coefficient p rms Pros rms magnitude acoustic pressure j indicates incident wave indicates transmitted wave.
+Thus given pipe area temperature determination rms magnitude incident transmitted acoustic pressure provide transmission coefficient transmission loss pipe.
+. transmission loss two simple pipe configuration derived using classical method filter network evaluation simply stated write equation describe con figuration network solve TL.
+section pipe containing single side branch shown Figure Pl Ale kx Bl e kxl P e xl p elg kx B e kx co f time k wave number.
+cross section dimension pipe branch opening assumed small compared wavelength frequency interest p p pl.
+incident mass flow conserved v v vl since pressure equal follows l L Z Z ZI Z Assuming temperature change within pipe upstream downstream pipe area equal l Equation rewritten Z rearranged solve reflected pressure term incident pressure B Z Using Equation eliminate B one obtains Z Al Z.
+Assuming acoustic energy lost neck resonator real imaginary part branch impedance za R X cLeff c Ao Vc Figure L effective length resonator neck Lo ALo Aid use Equation ALo Aid Ao cross sectional area resonator neck Volume resonator cavity.
+Figure show transmission loss calculated Equation following gas resonator characteristic c ft sec Ap.
+Transmission Loss Single Element Configuration Helmholtz Resonator Branch Pipe One Ancehoic Termination.
+. Three Element Configuration Figure show pipe configuration containing three element Helm holtz resonator section straight pipe length L sudden contraction pipe anechoic termination.
+pressure velocity five location P Bs v B P V Z P B v Aa B P e L B e L v e L L B eikL p AI VI AI assuming pipe cross section dlrrmnsl n small compared wavelength P P P P P Pl. using continuity mass flow v v va v vl.
+Beginning downstream end pipe Equations used obtain B term Ai AIe L.
+transmission loss term R X TL loglo R X Figure show value transmission loss sample three element pipe configuration based Helmholtz resonator geometry used Figure combined inch long straight section inch diameter pipe reducing inch diameter anechoic termination.
+transmission loss peak resonator obvious Hz Figure comparing Figure cyclic variation transmission loss caused straight pipe section impedance change end combined resonator transmission loss.
+. Discussion shown previous section method presented determining performance simple pipe configuration network based upon setting system equation defines acoustic pressure velocity relation ship within pipe solving desired performance characteristic.
+First pipe impedance relates pressure velocity constant area pipe section.
+Second assumption plane wave propagation wavelength large compared pipe cross section dimension provides simplified relation ship acoustic pressure region connecting element.
+Third mass flow continuity provides relationship velocity various point pipe.
+Finally independently determined expression acoustic impedance provide pressure velocity relationship complex element.
+Since acoustic impedance function exist many common pipe element many seemingly complex pipe system simply combination basic impedance change varying geometry method applied complex pipe configuration.
+. one simply start one end pipe writes equation relating acoustic pressure velocity section using pipe element impedance required.
+Continuity plane wave propagation used relate velocity pressure section.
+sec sec Impedance Ohm Impedance electrical filter network analysis even though classical method work arbitrary pipe configuration network significant difficulty arise trying apply method network small number element.
+transfer matrix method presented next section provides mean easily calculating characteristic pipe containing number element sequence.
+Transfer Matrix Method Figure show schematic representation portion pipe containing impedance change represented Tn. upstream acoustic pressure Pn upstream acoustic mass velocity vn Pn Vn downstream acoustic pressure mass velocity respectively.
+purely line impedance Zt alters acoustic pressure velocity Tl purely shunt impedance Zs alters acoustic velocity pressure Z Using definition element term one develop generalized transfer matrix individual element straight pipe Helmholtz resonator many others.
+equation matrix element function frequency include flow geometry term.
+Note state variable v mass flow straight pipe matrix contains pipe cross sectional area within impedance.
+also mean separate transfer matrix sudden expansion contraction pipe required acoustic mass flow used state variable mass flow change even pipe area.
+. Simple Cavity simple cavity described matrix shown schematically Figure cavity constant cross sectional area along depth depth Lc long compared wavelength interest.
+impedance based upon acoustic mass velocity derived Reference Zc c cot k Lc Substituting expression general form Tll TI tan k Lc.
+Using Equation one obtain expression transmission loss single resonator element TL gl IJ l equal Equation R transmission loss deter mined transfer matrix method element dimension given Section.
+third element anechoically terminated sudden contraction could modeled added straight pipe new diameter arbitrary length using Equation.
+Calculating transmission loss section straight pipe o l TL sp selection length would arbitrary sudden contraction modeled way.
+way model sudden contraction element simply consider new smaller diameter defining last pipe impedance expression transmission loss becomes impedance initial inch diameter pipe section impedance inch diameter section matrix term.
+Introducing Mach number convected wavenumber k kR YOU kc co c relationship basic wave equation resulting pipe impedance pipe without flow c Ap Ap pipe impedance flow c pipe impedance flow loss.
+relation convected stationary acoustic variable expressed transfer matrix form vJ v j J energy loss pipe considered expression tor wave number modified.
+impedance positive incident wave pipe containing mean flow loss becomes EL stationary impedance c Ap. equation relating stationary acoustic variable either end section straight pipe becomes co kL pnl P exp kL L sin kL L co kL L ira.
+. Equation inverse used obtain desired relationship convected variable n vc J co kLL X ic ossin kL Lk sin l L r n X L vcL general procedure also applied form loss acoustically absorbing pipe wall.
+Since viscous boundary layer loss pipe system solid wail extremely small often neglected effect mean flow considered resulting simplification relationship.
+Figure show result calculation using transfer matrix resulting Equation straight section three element sample problem Sections.
+. particular example primary effect adding flow decrease period cyclic variation frequency Hz similar result lengthened straight section Helmholtz resonator contraction.
+. CHAPTER SOUND PROPAGATION PIPES MEAN FLOW Miguel C.
+considers short wavelength range higher order mode characterized cut frequency begin propagate.
+Consequently sound propagate inside pipe sound velocity infinite plane wave.
+harmonic time dependence corresponding velocity displacement YOU OP pck Ox OP pc k Ox b Consequently rigid termination pressure must satisfy boundary condition P x L.
+coL Consequently like resonator cavity liquid column closed cavity act spring pipe length small term wavelength.
+x pressure zero velocity term Reynolds number you Pi sink x L x pc Pi sinkL pc peak L X.
+Natural resonant frequency corresponding Equa tion rfn n l c L result apply gas liquid ldled pipe provided one us Equa tion sound speed c latter.
+Standing Waves Open Ended Pipes Consider pressure release termination.
+either gas liquid filled pipe boundary condition also approximated pipe opening space filled acoustic fluid provided Ap. interface fluid column adjoining extended column simulated virtual piston.
+representing sound radia tion Equation reactive component associated entrained mass cop Ap ALo ALo end correction Helmholtz resonator Equation ALo. p.
+Ap w follows Ldf L used dealing water filled open ended stand pipe Lef given Equation dealing pipe opening space filled acoustic fluid.
+pressure release boundary condition p L satisfied Equation PR P e k Le. standing wave field therefore becomes p x Pl e tkx e lkx kL frJ p e lkL e ikL.
+. Tul Junction Consider acoustic resonance frequency tube junction Figure.
+engine inlet exit chamber formed wrapping two branch top sym metrical tube around cylinder joining end together.
+general solution rather involved however simplifying assumption reduces p Zv c tan k tan kL p zv c tp tan kl c Ap Z c acoustic impedance based upon acoustic volume velocity c end pipe see Figure.
+solution assumes three pipe tube cross sectional area end b closed.
+Chapter resonance frequency derived pipe section single side branch.
+Merkli show pipe cross sectional area three branch tube Leg Lo ALa AL left Io Al r l AL r Lo Lo lo AI r Io x Lo lo Lo lo length purely cylindrical part tube shown Figure.
+Ap. Finally solving acoustic resonance tube junction whether open closed c resonance frequency given Equa tion top found together resonance frequency given Equations.
+. Capillary Tubes situation considered far apply pipe diameter measure fraction wavelength.
+consider seciton extreme long wave limit pipe radius comparable viscous boundary layer thickness.
+propagation attenuation sound capillary tube compactly expressed term boundary layer thickness.
+Sound propagates lower velocity capillary tube pipe r.
+. Consequently air effective boundary layer thickness used Equation.
+e. quasi planar wave displaying phase reversal pipe cross section consequently nodal diameter circle.
+quasi planar mode pressure field could approximated solution one dimensional wave equation modified necessary account boundary elasticity.
+pipe diameter commensurate wavelength pressure field must formulated solution three dimensional wave equation cylindrical coordinate pressure distribution pipe cross section becoming function radial dimension r circumferential angle.
+three dimensional pressure field effectively infinitely long pipe radius r described summation orthogonal waveguide type mode whose radial dependence formulated term Bessel function Jn. r r p r z E P.
+mode separately must match pipe wall specific acoustic impedance considered locally reacting z.
+. r acoustic wave number k follows Tnm k oq r Consequently axial wavenumber imaginary.
+cut frequency mode begin propagate therefore fnm C nm b r modal phase velocity propagating range cnm xf f fn ynm c akn mr l.
+Equation b Rigid Pipe Cut Frequency Given Equa tion b.
+. effectively rigid boundary representative gas filled pipe Equation b fundamental planar mode expected zero cut frequency since J.
+kHz. radially oriented dipole located pipe axis excite planar mode source generate propagating wave.
+high frequency limit tends sound velocity extended fluid medium Figure.
+Referring Equation boundary condition expressed Fn pckrs F Jn J n b function plotted axisymmetric n mode Figure.
+low frequency reactance cylindrical she will already formulated connection Helmholtz resonator Xu Eh Eh f f fo breathing mode resonance frequency fo Cb b r Cb compressional wave velocity pipe wall.
+Plot Bessel Function Ratio Relating Radial Wavenumber r Pipe Wall Reactance Axisymmetric Modes Fo Equation.
+. Substituting result Equation one obtains boundary condition term pipe parameter Eh Fo iJa. Consider low frequency limit k r Fo ct large small argument asymptotic form Fo ilal la.
+substituted Equation one retrieves Korteweg Lamb correction Equation BL p c higher frequency pipe wall inertia force reduce stiffness controlled reactance.
+boundary condition becomes xu Eh k r c h r pckrs pc r Cb l r Tom Setting quantity equal Fo one solves frequency dependent value hence phase velocity Equation.
+result fair agreement phase velocity measurement shown Figure.
+physical interpretation enhancement effective sound velocity hose responds phase pressure exerted air hose thereby reducing effective com pliance air within mass controlled boundary.
+Sound Velocity Two Phase Media volume fraction vapor gas effective density medium ctpc pL pL Ot pc PL subscript L c refer respectively liquid vapor gas forming cavity bubble.
+Since cavity acoustically compact sound pressure act uni formly entire surface resulting spherically symmetric breathing mode response.
+. compliance individual cavity enhanced resonance effect bubble responding breathing mode single degree freedom oscillator natural frequency.
+e. identical natural fre quency compliance Bs bubble swarm take simple form Oo c co COo damping constant viscous thermodynamic acoustic radia tion component Figure.
+Comparison Theoretically Predicted Phase Velocity Attenuation Sound Wave Bubble Swarm Measurements.
+. low frequency sound velocity obtained Equation c.
+bubble resonance spectrum defined r COo dN dCOo N number cavity per unit volume.
+expressed concisely term general moment number spectrum defined L N rr COo. Consequently Equation becomes.
+Since density depends frac tional volume bubble rather size distribution frequency convenient formulate result term reciprocal effective bulk modulus.
+Referring Equation effect resonance amplification l.
+Pipe Resonances Dead Zone Attenuation Two Phase Systems solution developed Section.
+word resonance frequency obtained liquid filled pipe Equation rigidly terminated pipe Equation open ended pipe multiplied appropriate ratio KL kr Table.
+. Table Asymptotic Expressions Complex Wavenumber k k Sound Propagating Swarm Single Size Gas Filled Vaporous Cavities Frequency Bubble Propagation Range Behavior Characteristics Cavity compressibility Slow non dispersive short circuit negligibly attenuated kL compressibility wave.
+Sound Velocity Attenuation Bubbly Mixtures Measured Standing Wave Tubes J.
+CHAPTER STANDING WAVE MODES PIPES DUCTS MEAN FLOW John Cole Cambridge Acoustical Associates purpose chapter investigate effect flow acoustic resonance turbomachinery piping system.
+. begin reviewing effect sound pressure propagating mean flow absence pipe.
+considers acoustic loss interior end finite length pipe.
+section show presence flow pipe reduce amplification may occur axial resonance damping effect increase Mach number.
+. Mean Flow Effects Convection linear acoustic sound small disturbance perturbation propagates fluid medium.
+g. wall mounted pressure sensor effect flow give directionally dependent sound propagation speed c Co McosO Co sound speed fluid medium absence flow YOU co flow Mach number angle propagation relative flow direction.
+. directionally dependent sound speed wavelength propagating sinusoidal disturbance frequency f measured hertz also depends direction measured stationary observer k co l Mcos f therefore express sound pressure propagating infinite plane wave downstream.
+Co expression represent wave propagating fundamental mode rigid walled pipe carrying uniform flow inviscid fluid.
+acoustic pressure field satisfies wave equation obtained lineariz ing equation motion state uniform flow.
+Assuming flow positive x direction requires changing time derivative rx YOU give following momentum equation p you you b Substitution expression downstream upstream propagating wave Equation momentum equation Equation b provides following relationship pressure particle velocity P pc YOU pc YOU.
+source vibrates constant amplitude region wail disturbance applied fluid duct x r n x r v radial wall velocity x source region pipe wall r pipe radius q source displacement.
+Direct application Equation Equation give following result source velocity pipe wall presence uniform flow x r YOU x n x r b.
+Effectively assumesthat flow source region laminar normal velocity component merely displaces streamlines.
+Application two boundary condition result different flow depen dences acoustic pressure downstream upstream direction.
+consider fundamental propagation mode pipe whose wall rigid outside source region ratio downstream upstream pressure amplitude corresponding Equations b respectively.
+TurbulentFlow Equation P P Laminar Flow Equation Ib noted convection sound field flow because downstream pressure amplitude lower upstream amplitude.
+Comparison prediction Equation measurement shown Figure.
+simplest sense increase flow velocity distance wall mean effective propagation speed sound also varies distance wall.
+Close wall flow speed small outside region acoustic boundary layer discussed Section.
+Mach Number Dependence Measured Ratio P P Pressure Amplitudes Radiated Upstream Downstream Directions.
+plane wave sound propagate flow field would tend bend refracted towards wall.
+importance refraction pipe flow generally smaller low frequency lower order propagation mode.
+Attenuation Due Turbu ent FQw absence flow attenuation sound propagating fundamental mode circular pipe rigid wall due irreversible process involving viscosity heat conduction.
+mean flow pipe mechanism present result higher attenuation sound.
+mechanism viewed non linear result either interaction large amplitude sound wave mean flow vorticity.
+simple phenomenological formulation attenuation derived Reference including momentum equation term associated steady state pressure drop due presenceof turbulent pipe flow.
+result following pair complex valued wavenumbers propagation flow k Al co l k co l loss factor Al v gf R gf Dp gf friction factor turbulent flow Reynolds number steady pipe flow.
+Note friction factor circular pipe gf four time larger defined Reference owing definition equivalent diameter duct arbitrary cross section.
+. Flow Effects Resonances Finite Pipe Lengths.
+. Flow Effects Resonances Finite Pipe Lengths.
+e. organ pipe resonance found absence flow.
+observed measurement sound pressure pipe shown Figures b.
+Figure sound source external pipe result show decreasing resonance amplification increasing flow Mach number.
+source noise Figure b flow pipe unflanged sharp inlet flanged outlet.
+case noise increase flow Mach number increase however pipe resonance apparent.
+. Several factor contribute reduction resonance amplification high flow Mach number.
+discussed previously disparity spatial wave number upstream downstream direction mean fewer opportunity purely constructive destructive interference wave pipe.
+Another dissipation mechanism interaction sound wave vorticity generated flow entrance exit.
+e. P P reciprocal unflanged pipe end propagation upstream downstream Reference shown Figures b.
+f kHz Effect Flow Frequency Response Axial Modes Open Ended Duct External Random Noise Field.
+Measured Mach Number Dependence Magnitude Pressure Reflection Coefficients.
+relationship pressure reflection coefficient acoustic intensity obtained using Equation.
+Results shown Figure flow restric tions form single nozzle perforated plate.
+energy reflection coefficient minimum approach zero exit flow Mach number approximately equal contraction ratio area.
+indicated condition applies low dimensionless frequency relatively low Mach number.
+Analytical Modeling Alteration flow acoustic characteristic flow pipe obtained using simple analytical example namely pipe length L carrying uniform flow Mach number.
+disturbance downstream end generates equivalent plane wave velocity Uo pipe.
+wave propagating upstream assumed reflect pipe end pressure vanishes equivalent open pipe termination low frequency.
+acoustic pressure field pipe sum wave propagating upstream downstream p x P etk x p e ik.
+Sound Power Reflection Coefficient l Tube Versus Jet Exit Mach Number Various Dimensionless Fre quencies k r Two Exit Configurations.
+circular pipe carrying flow end correction unflanged pipe given ALo. kr Using effective length condition giving zero pressure obtain following relationship amplitude P P L pCUo p e.
+e. ratio pressure pipe particle velocity x p x ipc l sln Le Zo Uo x cosk L n iMsinkcL r k convected wavenumber.
+Co absence flow result given Equation obtained source impedance infinite anti resonance pipe measure odd number quarter wavelength.
+e. zero co kL zero resonance pipe measure integer number half wavelength.
+effect uniform flow shift location resonance eliminate possibility pure anti resonance longer real valued frequency because denominator vanish.
+source located wall pipe reflection upstream downstream end accounted function corresponding denominator Equation R.
+Anti resonance pipe obtained frequency root Equation.
+real imaginary part root given graphically Figure various flow Mach number turbulent flow friction factor.
+Purely real root giving zero particle velocity l mite pressure obtained flow absent.
+Mach Number Dependence Complex Eigenfrequency th Axial Acoustic Mode.
+. Open Ended Duct Effective Length Lee Several Values Turbulent Pipe Flow Friction Factor v f.
+K. Sound Attenuation Turbulent Pipe Flow J.
+K. Effect Flow Acoustic Resonances Open Ended Duct J.
+. Attenuation Sound Low Mach Number Nozzle Flow J.
+Sutherland Consultant Acoustics Cascades defined array parallel annular plate plane flow gas compressible fluid generally assumed subsonic.
+fact Parker Stoneman shown conclusively vortex shedding still primary source flow induced vibration presence cascade.
+chapter address acoustic resonance two aspect computation resonance frequency mode shape general impact acoustic resonance related aeroacoustic environment resulting structural response.
+acoustic resonance primary concern involve chord pitch plane thus considered term acoustic resonance frequency two dimensional cavity.
+cascade system type shown Figure four characteristic type acoustic mode defined.
+significance acoustic resonance excited vortex shedding resulting acoustic pressure may cause unacceptably high vibration response adjacent structure generate high noise level.
+occurs acoustic resonance frequency close vortex shedding frequency varies flow velocity.
+However illustrated later vortex shedding frequency may change significantly sound pressure acoustic field interact vortex shedding process.
+Plates Pressure Nodes Regions High SPL Velocity Nodes Figure.
+Relaxation Method section provides method determining acoustic resonance frequency cascade using numerical relaxation method.
+technique able compute resonance frequency mode shape complex geometry turbomachinery cascade.
+example assume acoustic mode shape system described set N linear equation Xj expressed following form index j go N j XI X.
+process solution Equation reached set Xj residual error F expressed following form approach zero j X X.
+Basically relaxation process start breaking acoustic cavity finite element approximating applicable Helmholtz equation cavity finite difference equation also define set residual error term Ft. value assumed unknown Xj equation.
+Depending two basic version relaxation method employed initial value desired unknown mode shape may general quite arbitrary may rough estimate actual mode shape.
+However either case initial value cavity boundary must conform applicable boundary condition zero particle velocity rigid wall zero pressure assumed pressure node.
+Next residual error term Fi Equation computed incremental change Xj one assumed X value computed.
+process repeated iterated residual error term Fi approach zero iterated value mode shape Xj stabilize.
+final close approximation mode shape used compute desired resonance frequency.
+Accuracies mode shape order percent roughly tenfold higher accuracy resonance frequency possible relatively small number iteration readily carried computer.
+number iteration decrease initially estimated mode shape closely approximates correct value increase number N variable increase N equal number two three dimensional cell element used describe acoustic cavity cascade system.
+g. N variable set equation pressure cavity changed amount designed reduce total residual error F zero next iteration.
+Multiplying Factors single multiplier applied residual error term Fi time iteration process reached point non zero relative proportion.
+. Consider key aspect involved application relaxation process determination fundamental acoustic resonance frequency mode shape simple one dimensional acoustic system.
+spatial variation sinusoidally varying time wise pressure tube found solution ordinary second order differential equation called Helmholtz equation.
+axial position along tube expressed non dimensional form ratio x x L x coordinate tube length L Helmholtz equation given dP x kL P x dx k f c wave number sinusoidal pressure wave frequency f sound speed c.
+Equation one form general class equation define eigenvalue resonance frequency linear case one dimensional system term set rmal mode.
+case acoustic pressure closed tube one resonance frequency say n th general form p.
+n th resonance frequency related corresponding wave number k.
+determine resonance frequency relaxation method either one two variation may used Modal Intensification method Rayleigh method.
+Applying concept solving weighted integral version Equation eigenvalue kL Rayleigh quotient given SP x dp x dx dx kL understood integration take place value x one end tube.
+application Rayleigh quotient involves intuitive guess expected mode shape followed evaluation Equation obtain estimate eigenvalue.
+Dropping prime x convenience FDA Equation point x shown dP x P X l P x x P x dx h P x value acoustic pressure P x along x axis position x x x spaced equal interval h illustrated sketch value.
+l P x kLl B h p xi Note since x coordinate actually expressed non dimensional form variable h also non dimensional case simply equal inverse number segment tube length divided.
+normal mode summation concept applied aid relaxation process find shape first normal mode system aid Rayleigh quotient find corresponding resonance frequency.
+Rayleigh Method method Rayleigh quotient first applied estimate fundamental resonance frequency term non dimensional parameter kl L based initial rough estimate approximate fundamental mode.
+process repeated resonance frequency mode shape stabilize.
+provides detailed example computation mode shape resonance frequency fluid pipe closed end.
+Given relationship Equation result iteration process stabilizes amplitude lowest mode since series P x P x Pn x n frrst term fundamental mode intensified step iteration process.
+boundary condition first mode zero particle velocity end tube.
+dx h boundary condition zero particle velocity x lead P x l l P xH P x pressure side th point position separated total distance h.
+Table Operation Table Analysis Fundamental Acoustic Mode Closed End Pipe II SEGMENTS Residual Errors.
+Modal Intensification Relaxation Method Helmholtz equation vibration string linear mass density p length L tension given w x kL w x dx wave number k f c speed wave motion string c p w x displacement string non dimensional axial position x x L rest position.
+first term series largest constant modal amplitude solving Equation wl given estimated value w provide intensified estimate shape wl first mode vibration string.
+solve Equation version relaxation method first transformed finite difference approximation second derivative following form th point W l W l W wI h h length finite segment string divided.
+. Equation solved unknown w value using alternating block point relaxation process.
+Application process determination mode shape fundamental resonance frequency vibration fixed end string length L illustrated follows.
+c helpful applying relaxation process define following operation table simply defines change value residual error term unit increase unknown w one time line application block operation time line.
+seen Equation result initial value residual error term F also equal.
+operation carried Table Line la Initially assume wl w hence Equa tion F wl Line lb w computed Equation applied block relaxation non fixed point.
+. Table Relaxation Table Showing Steps Displacement Modes Vibrating String Line Fi wi initial Initial Estimate wi b w BLOCK RELAXATION c w F b w l POINT RELAXATION c w l F procedure repeated give following result.
+db F three identical iteration process see Tables resulting mode shape expressed normalized form identical five significant figure theoretical result given Table.
+. Using finite difference approximation Second derivative top integral using true non dimensional value h arbitrary computing relative mode shape k L Z wl wi Wi l wl h Ew Applying normalized value w end Step result.
+e. initial guess constant amplitude using finite difference approximation Helmholtz equation vibration string mode shape fundamental frequency vibration easily computed Modal Intensification relaxation method.
+Note exact estimate mode shape used Step instead two iteration relaxation process calculated resonance frequency Equa tion would value k L.
+Thus general improved estimate resonance frequency system require finer breakdown element accuracy modal frequency dependent upon freer segmentation Rayleigh quotient accuracy mode shape determined relaxation process.
+resonance frequency vibration string directly applied case acoustic resonance open ended pipe.
+string displacement w replaced acoustic pressure P speed c p vibration wave string replaced speed sound c fTPo P ratio specific heat Po atmospheric pressure p gas density.
+. Rayleigh Relaxation Method method finite difference approximation Helmholtz equation written directly without resort assumption normal mode summation.
+resulting Finite Difference approximation Equation th point w wi wj h kL wl h equal length segment string.
+value wi found Equation equal minus one time total maximum value residual error term block point relaxation step respectively divided corresponding total value residual error unit change wl point affected.
+initial estimate roughly indicate general location maximum must course consistent boundary mode condition zero displacement boundary known assumed node point line.
+first approach Equation used throughout calculation residual error term F change wi made extinguish error using block relaxation process.
+result summarized version b used previous table term initial mode shape number step required achieve stable accurate value.
+general however found stable valid result reached using first version Rayleigh relaxation method employed block relaxation step initial assumption mode shape correct trend slope.
+contrast second version b Rayleigh relaxation method used point relaxation st block relaxation step assumed change residual error F unit change w simply equivalent neglecting kLh Equation valid stable result always obtained regardless assumption initial mode shape.
+case expected fewer iteration step required initial estimate mode shape close final result.
+mode anti node pressure maximum along mid cord centerline corresponding boundary condition along line pressure point either side x direction designated P P equal signifying pressure maximum zero particle velocity along line.
+rectilinear two dimensional sound field designated Figure Helmholtz equation corresponding Equation given dP x dp x P x.
+dy dx Using heuristic analysis Parker predicts corresponding mode shape general case axial flow system without hard boundary inlet outlet cascade would expected form P x Po co kc exp kcx f fc j.
+k nfc c wave number plate plane wave resonance frequency fc duct f c II mode c mode Figure pitch spacing cascade plate f frequency acoustic field corresponding vortex shedding frequency f.
+However analytical definition mode shape cascade system validated solving Equation numerically relaxation process using boundary condition specified earlier.
+Allowing rectangular cell dimension hx hy shown given sum two finite difference approximation one direction form Equation.
+P xj yj FDA xy j h Zp yj Note last two expression ratio non dimensional value hx hy required Equation.
+However initial mode shape P xl yj assumed constant value say point efficient iteration process involves use Block Relaxation step several application Multiple Point relaxation procedure.
+. Figure illustrates error eigenfrequency mode shape decrease number iteration case rectangular two dimensional cavity hard wall broken four equal quadrant made x ceils.
+Figure b show error eigenfrequency decrease number iteration initial modal amplitude assumed constant using three different strategy number Multiple Point relaxation employed Block relaxation employed.
+Influence Number Iterations Errors Eigenfrequency Mode Shape Fundamental Mode Two Dimensional Rectangular Acoustic Chamber Using Modal Intensification Method.
+Helmholtz equation used analysis acoustic resonance frequency given two dimensional cylindrical coordinate radial r axial z direction following equation coordinate r z non dimensional value normalized characteristic radius R P r z dp r z dP r z kR P r z.
+cha r dr dz Since expression describes two dimensional field cylinder plane contains cylinder axis radius two dimensional model cylindrical sound field broken general case network rectangular finite element ceils withdimensions hr x hz FDA first three term equation point rl zj given sum approximation second first derivative r plus approximation second derivative z FDA rl zj P rt zj hr hz P ri zj z hr hz P rl zj hr r P ri zj P ri.
+Acoustic Resonances Rectilinear Cylindrical Cascades general background computation acoustic resonance fre quencies system consider result experimental study effect resonance fluctuating pressure structural vibration cascade system.
+. Acoustic resonance cascade excited wake shedding frequency modal spacing greater plate pitch well mode mode node line plane cascade plate.
+. lowest resonance frequency controlled plate chord velocity propagation along cascade approximately velocity sound.
+. higher resonance frequency wavelength decrease faster increase frequency indicating velocity propagation along cascade fall velocity sound.
+axial flow compressor fan cylindrical geometry sort cascade resonance effect occur annulus area around blade due vortex shedding blade.
+However excited acoustic resonance frequency le value would exist absence blade.
+well defined minimum number circumferential wave given geometry propagate approximately speed sound number wave increase higher order mode occur nearly frequency leading beating closely adjacent mode.
+. axial flow compressor large spacing blade spinning acoustic mode generated vortex shedding stationary blade.
+direction spinning forward backward relative direction rotor system tested higher sound level occurred wide flow velocity range higher order forward spinning mode many wavelength around annulus.
+relationship acoustic resonance frequency flow velocity significantly affected rotor speed.
+Although significant rotor blade vibration occur structural resonance frequency blade configuration tested significant forced blade vibration occur frequency given cr ca N ai acoustic resonance frequency N mode number angular rotor speed.
+. axial flow compressor multi stage blading highest acoustic pressure occurred axial blade row spacing resulted excita tion frequency vortex shedding frequency upstream blade row.
+. Another study resonance effect aerofoil blunt trailing edge indicates prediction unsteady aerofoil theory may help explain shape result higher acoustic resonance response.
+base trailing edge shape could minimize resonance buildup momentarily trapping vortex forcing vorticity opposite shear layer dissipated thus reducing energy input acoustic system.
+. certain range flow velocity cascade vortex shedding frequency become synchronized lock onto acoustic resonance frequency.
+plate blunt trailing edge vortex shedding frequency locked higher acoustic resonance frequency.
+also observed semi circular trailing edge she would vortex le intense condition corresponded intense acoustic pressure resonance.
+. Vortex shedding cascade blade occurs flow speed frequency given approximately Strouhal Number.
+. However shedding well correlated across span trailing edge blade hence act strong source sound structural vibration shedding frequency close acoustic resonance frequency.
+Quantitative Results Analysis Acoustic Resonances Cascades Parker N shown acoustic resonance frequency measured rectilinear cascade corresponding finite stack parallel plate bounded two curve shown Figure first two mode type cascade system illustrated earlier Figure.
+first index represents number half wavelength acoustic field parallel flow along plate.
+second index n represents number wave direction normal flow.
+analytical expression defines lower bound curve Figure C l armctan C Chord length f Resonance frequency c X f Plane wave resonance frequency c Plate spacing mode corresponding mode respectively c Speed sound.
+vortex shedding frequency cascade strongly influenced acoustic resonance frequency.
+example Figure show shedding frequency follows expected Strouhal number relationship flow induced frequency approach nominally fuxed acoustic resonance frequency.
+flow velocity increase shedding frequency may jump next higher acoustic resonance frequency Figure b.
+Note slight increase vortex shedding frequency locked acoustic.
+Frequency Ratios First Two Acoustic Models Flat Plate Cascades x point Parker Llewellyn figure Parker Stonemanl.
+Typical Frequency Amplitude Velocity Relationship Flow Excited Resonances.
+. resonance frequency may simply reflect expected increase latter effective speed sound equal static sound speed plus flow velocity increase flow velocity.
+part Figure show similar behavior flow vortex shedding condition.
+. Structural Vibration Responses Cascade Systems Whenever significant structural vibration occurs cascade system two resonance frequency acoustic mode.
+key parameter figure co f angular frequency actual vibroacoustic response cop mechanical resonance frequency plate vacuum acoustic resonance frequency plate replaced rigid boundary resonance frequency duct axial acoustic modal distribution region upstream downstream plate plate removed.
+iustrate change mechanical resonance frequency COp plate interact acoustic reso nance former frequency allowed increase representing assumed increase plate stiffness give range ratio p.
+Two condition considered illustrate general behavior COp. condition flow velocity vortex shedding excitation slightly plate natural frequency.
+e. Point figure plate vibration strong plate acoustic velocity phase result stronger span wise coherent vortex shedding process.
+hand value p G ff vortex shedding excitation occurs acoustic resonance frequency CO COal strong acoustic pressure may occur accompanied large structural vibration response plate.
+. condition cop structural vibration tends weakest vortex shedding excitation frequency close plate resonance frequency well acoustic modal frequency COp COa indicated Region B figure.
+hand stronger plate vibration may occur along higher acoustic pressure vortex excitation frequency close acoustic resonance frequency COa CO corresponding Region figure.
+Frequencies Acoustic Mode Combined Plate Vibration Single Plate Parallel Walls.
+rhe Excitation Consequences Acoustic Resonances Enclosed Fluid Flow Around Solid Bodies Proc.
+Resonant Effects Wake Shedding Parallel Plates Calculation Resonant Frequencies J.
+. Low Frequency Resonance Effects Wake Shedding Parallel Plates J.
+Acoustic Resonances Blade Vibration Axial Flow Com. pressor J.
+Experimental Investigation Generation Consequences Acoustic Waves Axial Flow Compressor Large Axial Spacings Blade Rows J.
+Experimental Investigation Generation Consequences Acoustic Waves Axial Flow Compressor Effect Variations Axial Spacings Blade Rows J.
+Flow Resonant Sound Interaction Duct Containing Plate Part Semicircular Leading Edge.
+Note Frequency Ratios Acoustic Resonances Flat Plate Cascades Plate Spacing Less Half Longitudinal Wavelength J.
+disturbance amplification rate respective wave number Reynolds number flow first becomes unstable also determined using technique.
+disturbance unstable flow may represented form velocity vorticity pressure fluctuation.
+present numerical solution Rayleigh equation emphasis velocity profile common plane parallel mixing layer jet wake.
+. Linearized Bernoulli Equation Shown Figure two fuid stream one beneath density p P moving paraUelwith flow velocity YOU YOU.
+Assuming parallel mean flow velocity potential component pressure displacement expressed term mean fluctuating component x x x you x kl x v x x p x P x.
+quantity c speed wave moving x direction c c cl cr wave speed oscillation directly related real part complex angular frequency r wave number r nf Cr quantity ci called disturbance amplification factor.
+second term real represents speed wave traveling relative mean velocity.
+two equation reduced ordinary differential equation seeking solution type x e complex stream function complex amplitude function assumed depend c wave number wave speed respectively.
+Rayleigh Equation Since application turbomachinery value Reynolds number expected large right hand side Equation omitted smallness coefficient.
+solve Rayleigh equation mean velocity profile J must specified along appropriate boundary condition.
+. Streamwise Amplification Frequency Selection Figure illustrates basic feature turbulent transition plane mixing layer.
+Figure show two parallel stream unequal velocity brought together form thin shear layer.
+shown figure shear layer undergoes vertical undulation characterized initially exponential amplification fundamental frequency component Io along streamwise coordinate.
+unstable shear layer non linear growth region growth fundamental disturbance component saturated harmonic fundamental evolve linear rate Figure.
+Solutions Rayleigh equation Figure show dependence disturbance amplification rate versus non dimensional frequency.
+unstable frequency free shear layer dependent upon two parameter mean velocity distribution YOU momentum thick ness.
+mean velocity profile experience substantial change point two parallel stream meet point flow fully turbulent.
+validity approximation rest fact downstream unsteadiness shear layer act dominant upstream influence sensitive region separation initial unsteadiness begin.
+Frequency selection point separation coupled pressure feedback downstream unsteadiness.
+momentum thickness normally estimated based local shear layer thickness representative location downstream separa tion point.
+region immediately downstream nozzle edge however mean streamlines straight parallel jet top hat velocity distribution thin shear layer momentum thickness tend increase perhaps percent equilibrium fully established value.
+applying concept momentum thickness jet typically based orifice half width free shear layer momentum thickness calculated midpoint linear growth region.
+Predictions Free Shear Layers early possible use digital computer economically evaluate eigenvalue eigenfunctions linearized stability equation realistic mean velocity profile.
+Michalke one first demonstrate power using instability analysis pre dicting disturbance growth rate mixing layer type flow.
+section describes notable solution show calculation used predicting fundamental disturbance fre quency free shear layer.
+Table Continued Mean Velocity Profile Linear Stability Theory Jet Planar Reference r YOU sk ly kl sech ay Fully Sheared Antisymmetric.
+Hyperbolic Tangent Profile case hyperbolic tangent profile amplification factor pre dicted spatial stability theory based upon dimensionless velocity ratio YOU YOU YOU YOU across two flow.
+upper lower velocity equal shear flow reduces wake.
+amplification factor l versus normalized frequency plotted selected value Table c.
+real flow situation difficult estimate shear layer momentum thickness.
+often approximated geometry computing momentum thickness point separation based boundary layer profile.
+Figure Chapter suggests technique predict spreading rate turn momentum thickness plane mixing layer.
+example consider flow cavity value equal.
+. compared experimental work DeMetz Farabee determined laminar boundary layer preceding cavity resonance frequency corresponds St. valid circular rectangular opening.
+Table summarizes different method used estimate shear layer mode.
+Table Jet Matrix Survey Using Methods Derived Linear Stability Theory Flow Velocity Profile Jet Type Fully Top Hat Developed Shaped Planar Table Table c Axisymmetric Table e Table e.
+. Planar Jet Profiles Shown Table l result Sato velocity profile plane parallel jet profile.
+solution assumes flow quasi paraller mean ratio axial component velocity much greater vertical component.
+non dimensional frequency appearing figure based shear layer half width b often approximated using nozzle half width bw.
+two curve drawn figure illustrate symmetric anti symmetric disturbance variation disturbance growth rate function non dimensional frequency.
+jet stream near nozzle exit top hat shaped thin shear layer frequency lip instability estimated using result mixing layer see Table c.
+shape instability wave mean velocity profile vary streamwise distance.
+. Axisymmetric Jets Experimental measurement made circular jet indicate vortex generated near nozzle exit initially axisymmetric disturbance higher order helical mode increase significantly farther downstream.
+Shown Table e solution axisymmetric mode made Michalke circular jet.
+nozzle relative boundary layer thickness value determines maximum amplification frequency.
+velocity profile fully developed downstream potential core jet stream support higher order spinning mode.
+. seen irrespective jet mode compressibility effect lowering unstable frequency amplification factor increasing Mach number.
+growth instability due inflection point mean velocity profile characteristic thin shear layer.
+However farther downstream bluff body mean velocity profile form similar thin trailing edge one apply technique described herein.
+Chapter describes technique estimate frequency bluff body different geometry tube bank.
+two disturbance mode treated solution boundary condition vertical component velocity along wake centerline.
+. YOU n Chapter shown experimentally distance shear layer measured end formation region used calculate Strouhal number Strouhal number equal.
+. Laminar Turbulent Shear Flow Induced Cavity Resonances AIAA Paper.
+shape nozzle ultimately determines character mean velocity profile nozzle exit downstream develop ment vortex structure amount flow noise generated.
+situation turbo machinery jet nozzle well formed large Reynolds number producing velocity profile nozzle exit thin shear.
+vortex roll nozzle lip characteristic shear layer mode f.
+. shear layer mode instability frequency designated f.
+preferred mode column mode instability frequency fp length scale w denotes diameter axisymmetric nozzle width planar nozzle respectively.
+thin shear velocity profile use following Strouhal number st fn oe.
+Um fn amplified frequency sometimes called shear layer mode frequency e initial momentum thickness Um mean velocity measured jet exit.
+Measurements unsteady velocity see Table l nozzle exit con firmed power dependence shear layer mode free stream velocity indicated stepwise variation frequency jet exit velocity.
+preferred mode measured circular jet air shown Table.
+recent experiment shown preferred Strouhal number dependent initial momentum thickness low jet velocity shown Figure circular planar jet.
+high flow rate Strouhal number circular jet becomes constant equal.
+important feature realize preferred mode present even though boundary layer nozzle lip may turbulent separation incapable undergoing successive vortex merging characteristic thin shear iayer.
+. Table Shear Layer Mode Measured Planar Circular Jet Air Reproduced Gutmark Ho Authors Jet Type St fn Um Sato l Planar.
+Table Preferred Mode Measured Circular Jet Air Reproduced Gutmark Ho you Mach Probe Authors Nmnber Location era see X Dj Bechert Pfizenmaler.
+. Crowe Champagne.
+Strouhal Number Preferred Mode Jets Versus Characteristic Length Ratio.
+. Figure show range Strouhal number obtainable axisymmetric jet.
+curve St. show expectedvortex formation frequency due shear layer mode.
+Thus region bounded shear layer mode preferred mode form envelope possible Strouhal number circular jet.
+Strouhal Numbers Axisymmetric Jet. Reproduced Blake.
+Potential Core Dimensions Depicted Figure turbulent jet spreading medium free stream velocity.
+two fluid assumed parallel boundary layer thickness nozzle exit assumed negligible comparison orifice diameter Dj. jet shown uniform velocity UI expands adjoining medium free stream velocity YOU Using nomenclature consistent Abramovich ratio YOU YOU YOU YOU.
+Figure b Lines boundary defines region constant longitudinal velocity Ul. region potential core.
+Referring Figure width shear layer Yi given YJ.
+free stream velocity greater jet velocity external edge line Figure b shear layer may intersect centerline jet.
+. Figure show variation length potential core function velocity ratio.
+vortex merging creates pressure wave propagate upstream may influence development shear layer.
+time required vortex reach pairing location time needed pressure signal point merging propagate upstream equal integer multiple period.
+measured streamwise convective velocity Ue flow disturbance approximately Uc Ul YOU UI YOU defined Figure.
+Example Calculation example consider axisymmetric air jet nozzle diameter cm mean flow velocity sec sec sec.
+minimum Reynolds number three velocity greater therefore mean exit velocity profile thin shear.
+Next calculate Strouhal number frequency associated preferred mode jet column.
+Finally calculate thin shear layer instability measured nozzle exit.
+Using Figure deduce Strouhal number shear layer mode see Table varies Hz Hz. Table Sample Jet Shear Layer Modes Um sec StD Freq sec.
+study Cohen Wygnanski able determine number quantity jet including momentum thickness unsteady velocity near exit shear layer mode dominates.
+remainder example shear layer mode calculated using Equation compared velocity spectrum measured near jet exit.
+Figure dependence momentum thickness jet velocity shown measurement made x.
+mean velocity depicted Figure b constant value x.
+Using momentum thickness Figure thin shear layer lip instability determined Equation.
+Table Shear Layer Modes Calculated Using Momentum Thickness YOU sec f sec l Figure show spectrum measured two centerline location nozzle exit.
+. Also drawn figure lower part disturbance amplification rate predicted linear stability theory thin shear layer.
+Figure Measurements cm Air Jet. Reproduced Cohen Wygnanski.
+Normalized Power Spectra Calculated Spatial Growth Measured Nozzle Exit Three Jet Velocities.
+J. Role Shear Layer Instability Waves Jet Exhaust Noise J.
+E. Instabilities Near Field Turbulent Jets Dependence Initial Conditions Reynolds Number Ph.
+Lucas Wyle Laboratories interest vortex shedding bluff body relation turbo machinery stem fact phenomenon may result acoustic coupling inside turbomachinery.
+natural acoustic frequency standing wave duct enclosure coincides shedding frequency bluff body energy transfer mean flow acoustic wave producing sound amplification.
+chapter dependence non dimensional frequency Strouhal number Reynolds number presented selected geometry.
+describes mechanism respective regime vortex generation solitary cylinder cross flow Section.
+show method used predict Strouhal number tube bundle cross flow various tube con gurations.
+Vortex Formation Cylinder basic mechanism determines frequency vortex shedding behind bluff body distance separating two shear layer.
+lack clearly definable separation point surface cylinder make azimuth separating boundary layer sensitive Reynolds number geometry cross flow might square triangle.
+turn impact distance separating two shear layer shedding frequency.
+role Reynolds number flow structure interaction wake cylinder depicted Figure.
+figure adapted review article Morkovin show underlying flow field characteristic change Reynolds number.
+Vortex shedding considered subcritical attached flow near surface cylinder laminar past point separation.
+Reynolds number increased beyond x laminar boundary layer separate quickly experience transition turbulent state reattaches surface cylinder separate farther along.
+Strouhal number wake operate dependent upon free stream turbulence cylinder surface roughness condition.
+Reynolds number exceeds x boundary layer undergoes turbulent transition prior separation.
+turbulent boundary layer separate cylinder angle approximately measured forward stagnation point.
+. summary flow past cylinder Reynolds number subcritical transcritical regime likely reinforce large amplitude acoustic body oscillation.
+supercritical regime suffers degree uncertainty predicting mode oscillation artifact flow transitional thereby highly dependent free stream condition cylinder roughness.
+. basic parameter control vortex shedding process magnitude negative base pressure coefficient Cb distance shear layer.
+p YOU Pb base pressure pressure immediately downstream bluff body pressure undisturbed flow P Uoo free stream velocity density fluid.
+free stream Reynolds number Figure used determine Cb various geometry.
+applying Bernoulli equation separation point outside boundary layer wake velocity Us Cb Uoo obtained.
+distance separating shear layer wake width depicted Figure characteristic length common bluff body.
+free stream velocity YOU remains unchanged body width dimension increased seems intuitive distance separating shear layer increase base pressure coefficient Cb. Since base pressure coefficient simply related wake velocity follows wake Strouhal number appropriately defined St f Us Roshko developed relationship St K collapse measurement cylinder normal fiat plate degree wedge range Reynolds number.
+evident Figure St. universal Strouhal number span range base pressure coefficient.
+. universal Strouhal number may successfully applied range base pressure coefficient Cb. Figure Reynolds number mostly contained within subcritical regime.
+Prediction Strouhal Number Tube Banks Cross Flow.
+Prediction Strouhal Number Tube Banks Cross Flow.
+tube bank dbration concern cross flow fluid velocity high design contains long tube small diameter.
+identify failure occur analysis made considers four important factor affecting vibration vortex shedding turbulent buffeting acoustic resonance fluid elastic whirling referenced tube natural frequency.
+Consider tube array exposed gradually increasing cross flow velocity.
+instability shedding excitation frequency fe increase constant Strouhal number natural frequency tube fn acoustic resonance mode enclosure fa reached.
+called locking condition maintained considerable velocity range Strouhal number longer considered constant.
+increase velocity shedding frequency suddenly increase Strouhal number given original value prior lock ing condition.
+periodicity course greatly enhanced shedding instability frequency coincides acoustic resonant mode fluidelastic whirling instability.
+Strouhal Number St Versus St Tube Banks Cross Flow see Figure definition St. Shown Figure Fitz Hugh collection experimental meas urements made number investigator collapsed onto single diagram.
+Either Figure may used estimate Strouhal number tube bank.
+velocity YOU average flow velocity minimum cross section tube YOU YOU YOU free stream velocity St spacing parameter depicted Figure.
+Flow Acoustic Coupling Tube Arrays frequency flow periodicity inside duct coincides acoustic mode duct acoustical coupling may produce pressure amplitude high dB.
+determine condition inside heat exchanger favorable establishment transverse acoustical resonance Ziada et al.
+principal parameter used criterion critical Reynolds number based gap velocity spacing parameter acoustical Reynolds number based effective speed sound ceg line staggered tube array respectively resonance parameter V.
+G sl sr illj v co Reynolds number YOU average flow velocity minimum cross section tube Ce effective speed sound shown Parker equal c speed sound solidity ratio fraction space occupied solid body tube tube diameter v kinematic viscosity St spacing parameter.
+dependence resonance parameter G G L h shown Figure.
+. Resonance Parameter Gs b Staggered Tube Bank Figure.
+Table Values Frequency Constant Reproduced Fitz Hugh End Support Mode Conditions st nd rd th th Clamped.
+rid weight fluid oscillates tube per unit Wo kpo length dl inside tube diameter outside tube diameter value k Wo determined using Figure.
+natural frequency mned tube array heat exchanger similar one sketched Figure obtained using Equation making following substitution de.
+basic objective predict critical flow velocity type instability.
+Heat Exchanger Tube Bundle Vibration Prediction Procedure following procedure compare fluid dynamic forcing frequency acoustic resonator mode enclosure natural frequency tube.
+Calculate acoustic resonance enclosure described Chapter handbook.
+simplest calculation may apply fa nCeff L fa acoustic frequency n mode number.
+fluid excitation frequency fall within following limit acoustic resonance may enhance fluid unsteadiness.
+Cross Flow Induced Vibrations Tube Bank Vortex Shedding J.
+N. Sensitive Tube Spacing Region Tube Bank Heat Exchangers Fluid Elastic Coupling Cross Flow Fluid Structure Interaction Phenomena Pressure Vessel Piping Systems Au Yang.
+. Acoustical Resonance Tube Arrays.
+number laboratory test vortex flow found pre dominant parameter responsible determining onset vortex breakdown ratio swirl velocity V axial velocity you.
+axial velocity distribution vary radius representative value velocity cross section vortex typically chosen characterize flow.
+Thus possibility exists vortex breakdown excite resonant acoustic mode flow system produce vibration structural component.
+possible prediction scheme provided estimating resonance frequency inside geometry.
+. Measurements frequency Vonnegut whistle plotted flow rate Figure.
+fluid assumed inviscid air sufficiently high Reynolds number value one used.
+parameter used characterize whistle mean exit velocity YOU mean diameter downstream tube frequency oscillation f.
+decrease Strouhal number increasing L ratio reported Channuad indicate viscous drag reduction downstream tube possibly related variable reported Vonnegut Equation.
+Frequency Function Flow Rate Air Water Vortex Whistle.
+Frequency Function Pressure Incoming Outgoing Air Vortex Whistle Reproduced Vonnegut.
+sound frequency simply related fluid angular velocity Strouhal number represents ratio swirl velocity axial velocity St f Oro Uo nUo nUo ro V fluid angular velocity.
+device similar vortex whistle air injected tangential tube cylindrical container pure tone noise emitted whose frequency proportional flow rate swirl.
+presence diaphragm shown figure separate air flow two stream.
+Acoustic streaming mean motion fluid generated sound.
+Kurosaka developed frequency swirl relationship first harmonic vortex whistle determined f co K ro equation F circulation forced vortex may estimated assuming value circulation around tube periphery equal around circumference exit swirl generator ro radius tube hot air expelled.
+Figure show calculated frequency together measured value.
+geometry shown Figure c idealized practice ring cross section may non circular axial flow complicated blading annular passage.
+flow device expected induce turbulence may affect nature unsteadiness inside ring chamber frequency oscillation.
+. shown figure Strouhal number St f constant value.
+previous section shown Strouhal number ring exit chamber equal.
+. Assuming speed sound gas sec frequency flow instability f x Mach number calculate acoustic resonance inside tube use Equa tions.
+. comparison measured pressure spectrum different mass flow rate appears Figure.
+pressure spectrum contain pressure peak due flow instability peak due acoustic resonance characteristic model.
+pressure peak due flow instability increase frequency flow rate agreement Equation.
+calculated acoustic resonance frequency drawn figure determined Merkli good agreement resonance frequency presented Table.
+Table l Calculated Resonance Frequencies Ring Exit Chamber Top Tube Stem Equation Equation.
+Frequency Spectra Fluctuating Pressure deg Model Disk Together Calculated Acoustic Eigenfrequencies R.
+Acoustic Streaming Swirling Flow Ranque Hilsch Vortex Tube Effect J.
+Acoustic Resonance Frequencies Tube J.
+Acoustic Resonance Frequencies Tube J.
+chapter problem shear layer impinging downstream surface edge presented selected geometry Section.
+provides overview flow mechanic basic shear layer impingement geometry.
+describes model estimating highly amplified dis turbance frequency jet stream impinging edge classical edgetones perpendicular fiat plate perpendicular fiat plate hole center.
+contains acoustic hydrodynamic model estimating disturbance frequency generated cavity oscillation.
+. Overview summary type shear layer impingement categorized Rockwell Naudascher shown Figure.
+pressure feedback selectively amplifies shear layer causing flow fluctuation occur within narrowband frequency produce preferred stage mode oscillation.
+Basic Configuration Shear Layer Impingment Edge Geometries Produce Self Sustained Oscillations.
+Apparent Streamwise Length Scales Variety Non Impinging Flows Typical Variation Frequency Versus Velocity YOU.
+typical shear layer might number value.
+consequence apparent length scale ladder like change frequency see Figure observed velocity increased.
+stage oscillation represented n f Equation period shear layer oscillation vortex shedding.
+feedback process explained initiation jet exit disturbance wave growth propagation disturbance streamwise direction impingement oscillating jet edge subsequent generation near impingement point acoustic disturbance fed back sensitive region jet near exit.
+low Mach number nearly flow interest satisfy criterion impingement distance L divided acoustic wavelength.
+case higher speed flow acoustical wavelength relatively short upstream region lie propagating region feedback disturbance.
+situation acoustic speed become important evaluating delay time impingement location shear layer separation.
+case impinging flow Blake make following elementary description applies frequency prediction model found literature.
+simple model ignores frequency synchroni zation may arise acoustic resonator.
+. Impinging Flows Jets section contains discussion model may used predict highly amplified disturbance jet stream impinges edge Section.
+demonstrated leading edge treated acoustic dipole source disturbs jet instability characteristic dependent Reynolds number Strouhal number jet edge separation distance.
+non dimensional variable important edgetone phenomenon Reynolds number Um Dj v based Um mean velocity nozzle Strouhal number St f Dj v introduces frequency f distance separating jet nozzle leading edge divided nozzle width L Dj disturbance amplitude expressed suitable non dimensional form velocity profile jet exit.
+frequency dependence jet effiux speed impingement length edgetone generator shown Figure.
+frequency increase either velocity jet increased distance separating jet exit leading edge decreased.
+Variation Edgetone Frequency Jet Efflux Speed Impingement Length.
+Figure b show similar trend frequency impingement length increased decreased.
+many lower Reynolds number study velocity profile nozzle exit fully developed parabolic shape.
+Figure show measurement made Powell Strouhal number versus Reynolds number planar jet nozzle width mm.
+Lucas Rockwell showed due rapid non linear distortion shear layer Strouhal number retain primary frequency exhibit many seven component sum difference.
+Survey Edgetone Frequency Prediction Models Brown made experimental measurement mm orifice width planar jet impinging wedge included angle degree.
+Equation assumes cgs unit limited range Strouhal number.
+function Nyborg integral equation give shear layer frequency relationship ft.
+Since ratio frequency different stage independent you x Nyborg Brown prediction shown table comparison.
+Table l Shear Layer Frequencies Nyborg Brown Models Stage Nyborg Brown Percent Number n f fl f fl Difference.
+Powell expressed Lighthill equation aerodynamic sound production form edge represented distribution dipole source acoustic pressure field surrounding edge directly related distribution source.
+. J Plate Configuration section describes jet plate configuration source pressure fluctuation condition resonant impinging jet capable producing tonal noise prediction methodology suitable estimating frequency jet tone.
+. High level pure tone noise generated flow axisymmetric jet impinges fiat plate high subsonic speed.
+nozzle plate separation distance relates creation pressure disturbance upstream near field force sufficiently large amplitude growth shear layer nozzle exit.
+condition jet stream resonant state upstream wave become phased locked wave traveling downstream.
+also produce pressure disturbance capable exciting acoustic resonance jet enclosed cavity often situation inside turbomachinery.
+plate shown figure located stream nozzle exit.
+. Shear layer vortex emerge nozzle exit wavelength non impinging jet.
+Farther downstream nozzle exit shear layer vortex undergo rapid merging large scale coherent structure created.
+evolution shear layer vortex nozzle exit consistent prediction free jet.
+vortex shedding frequency Strouhal number St f Dj Urn range observed increase square root Mach number.
+nozzle diameter jet transition low frequency disturbance.
+. high frequency pressure disturbance associated jet instability follow acoustic path far field large coherent structure simply instability wave lost identity reached plate.
+far field pressure disturbance attributed former acoustic source rather primary noise source noise generated vortex impingement plate.
+. diameter downstream exit resonating jet.
+low frequency component domi nates pressure signal illustrates importance vortex impingement plate subsequent upstream influence.
+Figure c compare far field power spectrum measurement made several nozzle plate separation distance.
+dependence Strouhal number Mach number impinging jet free jet shown Figure.
+Instability Resonant Strouhal Numbers Free Impinging Jets.
+. f Dj Um. C L Dj Variations Non Dimensional Resonant Frequency fDj Parameter Plate Locations.
+Variation Frequency Stage Number Plate Separation Distance.
+Strouhal number wave range presence plate change initial instability fre quency.
+Mach number increased impinging jet becomes resonant exhibit large coherent structure Strouhal number.
+vertical bar Figure represent frequency variation observed different plate location.
+Finally figure illustrates upstream pressure feedback sufficient intensity impact vortex shedding interaction process Mach number exceeds.
+Figure Strouhal number decrease increasing nozzle plate separation distance reach minimum value approximately.
+presence jet stage unfamiliar leading edge interaction exhibit abrupt change frequency impinging length scale increased.
+Ho Nosseir model predicting variation frequency Mach number assumes phase difference downstream convective wave upstream acoustic wave zero.
+stipulated resonance condition requires integer number wave exist feedback loop n L L L.
+Dj. cm L Dj Frequency Percent Stage Difference Equation Measured n.
+measurement made air using axisymmetric jet mean exit velocity profile top hat shape.
+l l L Dj b Measured Angle Upstream Propagating Waves Jet Axis Different Plate Locations.
+sound pressure level low difficult measure presumed maximum velocity perturbation occurred within vortex ring greater distance edge hole.
+Figure show approximate wave speed function streamwise coordinate nozzle exit.
+data shown compared edgetone experiment using planar jet fully developed parabolic velocity profile.
+Shown Figure dependence Strouhal number versus Reynolds number hole tone system.
+Blake suggests frequency prediction model St fL Uc n l Um Um n wave speed ratio Uc Urn range.
+Parabolic Velocity you Profile PImar Jet l Non Dimensional Downstream Distance x Dj Figure.
+Flows Past Cavities Flow past rectangular slotted cavity provides basis self sustained oscillation purely hydrodynamic type also potential coupling basic instability resonant acoustic mode within cavity lastic characteristic cavity wall.
+Common turbomachinery shear layer instability mode coupled cavity acoustic resonance mode.
+Fluid Resonant Oscillations Cavity oscillation result coupling inherent instability shear layer one acoustic resonant mode cavity.
+class oscillation acoustical wavelength exceed dimension cavity preventing existence standing wave negating effect cavity resonator.
+Flax suggests fluid dynamic oscillator could modeled xed Strouhal number determine frequency cavity oscillation.
+Discontinuous frequency activity hysteresis region possible downstream edge cavity provides capability feedback mechanism result preferred mode oscillation.
+. Fluid Resonant Oscillations Fluid resonant cavity oscillation occurs shedding frequency sufficiently high acoustic wavelength sufficiently short allow standing wave inside cavity.
+L case acoustic wave depth wise mode acoustic resonance observed X.
+problem led extensive number article cavity oscillation model apply different physical treatment estimate mode oscillation.
+section two physical treatment reviewed feedback transit time model acoustic resonance model.
+Feedback transit time model sum transit time vortex sheet formed fluid layer moving downstream direction transit time acoustic pressure disturbance traveling upstream cavity trailing edge.
+However approach requires transit time frequency coincident cavi acoustic resonance.
+Figure fluid velocity turbulent characteristic near cavity opening cavity dimension play significant role predicting cavity tone.
+Shear Layer Acoustic Radiation k hydrodynamic wavelength acoustic wavelength Uc convective velocity c speed sound fa acoustic frequency YOU free stream speed Pb RMS pressure base cavity f shear layer frequency momentum thickness Po RMS pressure cavity opening Mach number Figure.
+Physical Dimensions Flow Parameters Cavity Oscillation Models.
+mode number empirical constant L cavity length Mach number measured free stream.
+. respectively ct constant account phase difference upstream arrival acoustic wave subsequent vortex shedding downstream interaction leading edge subsequent acoustic radiation.
+Rossiter model found predict frequency consistent experimental data provided Mach number.
+general solution model acoustic pressure field due acoustic monopole source impingement edge.
+phase acoustic feedback pressure field determined inspecting asymptotic formula potential cylindrical wave given Rayleigh.
+potential Equation acoustic pressure phase given kL.
+phase difference downstream moving vortex sheet deter mined general form perturbed shear layer.
+Added two term n account maximum pressure downstream edge shear layer displacement minimum.
+resulting expression obtained eigenvalue equation excitation frequency krL n ii c becomes f L n YOU l kv c Ic kv k YOU you coo speed sound free stream c speed sound inside cavity.
+set linearized perturbation equation written cavity internal external flow.
+cavity opening equation bounded requirement continuous pressure across interface.
+resulting equation reduced single integral whose characteristic equa tion provides relationship wave number frequency.
+Figure show result Covert integral equation calculated sub sonic supersonic flow.
+region damping factor positive disturbance expected grow frequency indicated Strouhal number.
+flow unstable critical Strouhal number determined zero crossing.
+unknown quantity Figure freestream velocity value defines disturbance neutrally stable.
+. Feedback Transit Time Models Cavity Resonance Model Block model shear layer infinitesimally thin sheet acoustic disturbance cavity trailing edge simple acoustic point source.
+attempt account acoustic resonance mode cavity Block included first image source trailing edge cavity account effect acoustic wave reflected bottom cavity.
+acoustic field motion shear layer matched leading trailing edge develop fL Ill YOU real part wave number use value.
+Equation correctly account dependence Strouhal number L ratio observed experimental data.
+depthwise standing wave oscillation calculated using relation developed East YOU L B East derived Equation Rayleigh formula open circular pipe fD.
+. Equations combined frequency shallow acoustic wave coincides depthwise acoustic mode formula kr L L B L.
+may used estimate Mach number cavity begin oscillate given mode.
+Equation tested Block shown provide adequate agreement Mach number range.
+Yet model limited specific range L Mach number value.
+parameter include Mach number cavity length depth ratio phase.
+Plotted Figure comparison Mach number L ratio model shown work.
+Rossiter Block model estimate hydrodynamic acoustic mode streamwise direction East formulation specifically depthwise cavity mode.
+Table show Strouhal number calculated using Rossiter Block East model.
+shading indicates value L Mach number contained within range shown Figure.
+Table Comparison Strouhal Numbers Calculated Rossiter Block East Cavity Oscillation Models Rossiter Eqn. Block FAIn. East L Mach Eqn.
+FUNDING NUMBERS Acoustic Characteristics Turbomachinery Cavities NAS.
+ABSTRACT imum Owords Internal fluid flow subject self sustained oscillation purely hydrodynamic type also coupling instability acoustic mode surrounding cavity.
+situation common turbomachinery since flow instability confined within flow path acoustic wavelength typically smaller dimension cavity flow speed low enough allow resonance.
+view complexity type flow report written purpose presenting many method used compute frequency self sustained oscillation.
+view complexity type flow report written purpose presenting many method used compute frequency self sustained oscillation.
+report also present engineering formula needed calculate acoustic resonant mode duct cavity.
+report also present engineering formula needed calculate acoustic resonant mode duct cavity.
+Although report replacement complex numerical experimental modeling technique intended used general type flow configuration known produce self sustained oscillation.
+Although report replacement complex numerical experimental modeling technique intended used general type flow configuration known produce self sustained oscillation.
+SUBJECTTERMS vortex shedding edgetone unsteady flow acoustic oscillation.
