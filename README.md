@@ -13,7 +13,7 @@ The web framework incorporated in our solution is Flask. The features of our pro
 The main file is execute.py which is integrated with other files as follows
 
 1) read_pdf.py to generate summaries.
-2) word_cloud.py to generate word clod for the AI summary generated.
+2) word_cloud.py to generate word cloud for the AI summary generated.
 3) embeddings.pickle which contains the trained model for Auto AI search.
 
 
